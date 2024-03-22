@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio5;
+package generics_wildcard.parte_1.exercicio5;
 
 public class PessoaFisica extends Pessoa{
 	private String cpf;

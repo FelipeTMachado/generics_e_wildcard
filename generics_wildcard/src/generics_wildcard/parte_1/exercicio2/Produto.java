@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio2;
+package generics_wildcard.parte_1.exercicio2;
 
 public class Produto<T> {
 	// ATRIBUTOS

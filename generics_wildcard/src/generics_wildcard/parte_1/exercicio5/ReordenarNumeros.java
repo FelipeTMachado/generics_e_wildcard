@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio5;
+package generics_wildcard.parte_1.exercicio5;
 
 import java.util.Collections;
 import java.util.List;

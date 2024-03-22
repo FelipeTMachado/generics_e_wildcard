@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio3;
+package generics_wildcard.parte_1.exercicio3;
 
 public class Main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio4;
+package generics_wildcard.parte_1.exercicio4;
 
 public class Par<K, V> {
 	K chave;

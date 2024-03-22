@@ -1,4 +1,4 @@
-package generics_wildcard.exercicio3;
+package generics_wildcard.parte_1.exercicio3;
 
 import java.util.ArrayList;
 import java.util.List;
